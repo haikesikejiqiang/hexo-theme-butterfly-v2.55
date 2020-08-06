@@ -1,0 +1,89 @@
+class:
+  class_name: 小伙伴们
+  class_descr: 给你们递茶(ฅ>ω<*ฅ)
+  link_list:
+    1:
+      name: MR.DC
+      link: https://mrdc.me/
+      avatar: https://cdn.xxxxx.top/avatar.png
+      descr: 这个人好帅
+    2:
+      name: 全栈完熊
+      link: http://wanxion.com/
+      avatar: https://xxxxx/avatar.png
+      descr: 这个人好帅
+    3:
+      name: 動G
+      link: http://verbg.com/
+      avatar: https://wang_chen_hui.gitee.io/photo/images/avatar.png
+      descr: 不放松，不醉到，用学习态度。
+    4:
+      name: Locker
+      link: https://onstart.top/
+      avatar: https://xxxxx/avatar.png
+      descr: 这个人好帅
+    5:
+      name: Rui.plus
+      link: https://rui.plus
+      avatar: https://q1.qlogo.cn/g?b=qq&nk=1034958019&s=640
+      descr: 得得得得得得得~
+    6:
+      name: 武汉彭鱼宴
+      link: https://daqwt.top
+      avatar: http://q8khsi9j4.bkt.clouddn.com/touxiang.jpg
+      descr: no pain no gain！
+    7:
+      name: 折纸少年
+      link: https://1620993037.github.io/
+      avatar: https://1620993037.github.io/img/avatar.png
+      descr: 活着不一定要鲜:但一定要有自己的颜色
+    8:
+      name: CtrlCV博客
+      link: https://www.hack-er.cn/
+      avatar: https://cdn.xxxxx.top/avatar.png
+      descr: 无
+    9:
+      name: 幕光倾城-Linfeng Mei
+      link: https://www.meilinfeng.top
+      avatar: https://s1.ax1x.com/2020/05/15/YymjXQ.jpg
+      descr: 钝学累功-勤能补拙
+    10:
+      name: 阿瑞
+      link: https://arraggon.github.io/
+      avatar: http://r.photo.store.qq.com/psc?/V12hS1A32PxdvZ/xBqlYxewEGhxwKHKc.e8gTCwjTItPeBYXa7dkE1qvtJ4j6hHRX3xLv65pHHZA9NdPD47xYCcp64WwgKG7w8WjAWkeLadd82fHgOci5rr8UA!/r
+      descr: 我喜欢一个人，也喜欢一个人。
+    11:
+      name: TanJia
+      link: https://www.tanj.com.cn/
+      avatar: https://www.tanj.com.cn/public/img/lg.png
+      descr: 一个前端程序员的个人博客 | 心之所向，无问西东
+    12:
+      name: XuQian
+      link: https://xuqssq.com
+      avatar: https://xuqssq.com/static/img/650blue.50a2eed.png
+      descr: 一个前端程序员的个人博客 | 记录生活，记录故事
+    13:
+      name: 雪曦
+      link: https://xiabor.com
+      avatar: https://xiabor.com/img/avatar.png
+      descr: 君浅吟，叹落笔
+    14:
+      name: 久别人潮
+      link: https://www.jiubrc.com/
+      avatar: https://ae01.alicdn.com/kf/Ucfa8db8e46224603a4349396b35c4335E.jpg
+      descr: — 祝福我未曾谋面的TA
+    15:
+      name: Joinis Blog
+      link: https://www.404creater.cn
+      avatar: https://www.404creater.cn/wp-content/uploads/2020/06/%E5%A4%B4%E5%83%8F.jpeg
+      descr: 明天起来我还能学前端
+    16:
+      name: Dark
+      link: https://ii.do/
+      avatar: https://ae01.alicdn.com/kf/Uedd59a71a457434eb3250b2673fdacdb6.jpg
+      descr: 一个啥也不会的国别域名爱好者 
+    17:
+      name: 高浩轩
+      link: https://china-365vip.github.io/
+      avatar: https://p.ananas.chaoxing.com/star3/origin/96766fe83c9722c24e1970430cf0ba97.png
+      descr: 一个平平无奇的小站
